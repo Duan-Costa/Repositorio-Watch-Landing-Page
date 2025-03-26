@@ -3,6 +3,7 @@
 Recentemente, desenvolvi essa Landing Page para um smartwatch moderno e elegante, utilizando HTML, CSS e JavaScript. O objetivo foi criar um design chamativo e responsivo, focado em conversão e experiência do usuário.
 
 🔹 Tecnologias utilizadas:
+
 ✅ HTML para a estrutura.
 
 ✅ CSS para o estilo e responsividade.
